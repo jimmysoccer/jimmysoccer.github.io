@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Basic Information About Me
 [Email](mailto:jimmysoccer0927@gmail.com)/ [GitHub](https://github.com/jimmysoccer/)/
 <a href="https://www.baidu.com">click me</a>
 
