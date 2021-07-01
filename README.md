@@ -1,8 +1,10 @@
 <h1>Heng Sun</h1>
 
 ### Basic Information About Me
-<p>Last Name: Heng &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   First Name: Sun</p>
-<p>Gender: Male &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Birthdate: 09/27/2000</p>
+* Last Name: Heng   
+* First Name: Sun
+* Gender: Male  
+* Birthdate: 09/27/2000
 
 ### Job Experiences
 
