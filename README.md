@@ -5,6 +5,7 @@
 * First Name: Sun
 * Gender: Male  
 * Birthdate: 09/27/2000
+* Know more about me: welcome to my personal website. (to be continued)
 
 ### Job Experiences
 
