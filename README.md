@@ -24,7 +24,7 @@ Main course: C++(A), data stucture(A), calculus-3(A), python for biology(A), fun
 Awards：dean’s list fall 2019 – fall 2020
 ### Project Experiences
 * <strong>Database software</strong>: Our group's goal is to create a website that can access to oracle database and query the search from the website. And website will be able to show the graphs comparing the query results. I am responsible for website creation part. I used PHP to create the website and make an access to the oracle database. Besides, I made the website print out the result, and the corresponding graph.
-* <strong>Circuit simulation software</strong>: I am responsible for creating this software using C++. This app is able to simulate the current and circuit. When the switch is clicked and switch is open, then the corresponding circuit should be green, otherwise, it should be red.
+* <strong>Circuit simulation software</strong>: I am responsible for creating this software using C++. This app is able to simulate the current and circuit. When the switch is clicked and switch is open, then the corresponding circuit should be green, otherwise, it should display red.
 ### Skills
 * C++: proficient
 * SQL: proficient
