@@ -33,4 +33,4 @@ Awards：dean’s list fall 2019 – fall 2020
 * JavaScript: Familiar
 * PHP: Familiar
 * TOEFL: 98
-* <a href="http://jimmysoccer.github.io/Demo.html">click me</a>
+* <a href="http://jimmysoccer.github.io/demo.html">click me</a>
