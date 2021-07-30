@@ -1,5 +1,5 @@
 layout: page
 title: "Blog"
-permalink: /blog/
+permalink: /blog/test
 
 <h1>Demo Page</h1>
