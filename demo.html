@@ -1,6 +1,45 @@
 <style>
   h1{
-    width: auto;
+    background-color: antiquewhite;
+    text-align: center;
+  }
+  .description{
+    text-align: left;
+    padding: 20px;
+    background-color: aqua;
+  }
+  ul{
+    list-style-type: none;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+  }
+  li{
+    float: left;
+  }
+  li a{
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover:not(.active){
+    background-color: #ddd;
+  }
+  li a.active{
+    color: white;
+    background-color: #4CAF50;
   }
 </style>
 <h1>Demo Page</h1>
+<ul>
+  <li><a href="https://jimmysoccer.github.io/demo.html" class="active">Home Page</a></li>
+  <li><a href="#blogs">Blogs</a></li>
+</ul>
+<body>
+  <h2>Description</h2>
+  <p class="description">This is the demo page under the git page. 
+    This page will be edited to show my blogs and 
+    anything about me other than the contents showed on CV.</p>
+</body>
