@@ -2,4 +2,4 @@ layout: page
 title: "Blog"
 permalink: /blog/test
 
-<h1>Demo Page</h1>
+<h1>Demo Page Test</h1>
