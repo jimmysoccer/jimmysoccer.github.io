@@ -17,7 +17,7 @@ the total tuples are more than 1 million.
 
 
 ### Education Experiences
-#### High School Diploma • June 2019 • Aquinas High School
+#### High School Diploma • June 2019 • Aquinas High School, CA
 GPA: 4.0/4.0(1%)
 
 #### Bachelor of Science • August 2019 - May 2023 • University of Florida(UF)
@@ -28,7 +28,7 @@ Awards：dean’s list fall 2019 – fall 2020
 ### Project Experiences
 * <strong>Database software</strong>: Our group's goal is to create a website that can access to oracle database and query the search from the website. And website will be able to show the graphs comparing the query results. I am responsible for website creation part. I used PHP to create the website and make an access to the oracle database. Besides, I made the website print out the result, and the corresponding graph.
 * <strong>Circuit simulation software</strong>: I am responsible for creating this software using C++. This app is able to simulate the current and circuit. When the switch is clicked and switch is open, then the corresponding circuit should be green, otherwise, it should display red.
-* <strong>Wechat Mini Program</strong>
+* <strong>Wechat Mini Program</strong>: This is an ongoing project. Our group aims to build a question box application so that the users can submit their own questions sharing with their friends and answer questions that other people asked. I am mainly responsible for the front end part of the application, inclduing setting user interface, building interactions between users and application.  
 ### Skills
 * C++: proficient
 * SQL: proficient
