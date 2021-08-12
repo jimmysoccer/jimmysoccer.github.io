@@ -12,12 +12,14 @@
 #### Summer Internship • Continental Tires (China) Cooperation • May 2021 to August 2021
 * using SQL language to manage company's Microsoft SQL database storing customers' and stores' detailed information inclduing basic, business and economic information,
 the total tuples are more than 1 million. 
-* data analysis of customers and stores
+* using Excel and visual basic to analyze data collected from database.
+* transfer analyzed data and report to the company's own database system. 
 
 
 ### Education Experiences
 #### High School Diploma • June 2019 • Aquinas High School
 GPA: 4.0/4.0(1%)
+
 #### Bachelor of Science • August 2019 - May 2023 • University of Florida(UF)
 GPA: 3.78/4.0(10%)<br>
 Main course: C++(A), data stucture(A), calculus-3(A), python for biology(A), fundamental of java(A-), macroeconomics(A)
