@@ -9,7 +9,7 @@
 
 ### Job Experiences
 
-#### Summer Internship • Continental Tires (China) Cooperation • May 2021 to August 2021
+#### Summer Internship • Continental Tires (China) Co., Ltd. • May 2021 to August 2021
 * using SQL language to manage company's Microsoft SQL database storing customers' and stores' detailed information inclduing basic, business and economic information,
 the total tuples are more than 1 million. 
 * using Excel and visual basic to analyze data collected from database.
