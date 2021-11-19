@@ -61,9 +61,9 @@
 ---
 ### Skills
 * C++: proficient
+* Python: proficient
 * SQL: proficient
-* Java: Familiar 
-* JavaScript: Familiar
-* PHP: Familiar
+* JavaScript: proficient
+* Java: familiar 
+* PHP: familiar
 * TOEFL: 98
-* <a href="http://jimmysoccer.github.io/demo.html">This is the demo page</a>
