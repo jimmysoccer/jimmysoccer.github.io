@@ -30,10 +30,7 @@ Awards：dean’s list fall 2019 – fall 2020
 * <strong>Circuit simulation software</strong>: I am responsible for creating this software using C++. This app is able to simulate the current and circuit. When the switch is clicked and switch is open, then the corresponding circuit should be green, otherwise, it should display red.
 * <strong>Wechat Mini Program</strong>: This is an ongoing project. Our group aims to build a question box application so that the users can submit their own questions sharing with their friends and answer questions that other people asked. I am mainly responsible for the front end part of the application, inclduing setting user interface, building interactions between users and application. This project is highly based on the knowledge of HTML, CSS, JavaScript, and some back-end framework. 
 * **Minesweeper
-* Designed and implmented a typical minesweeper game by using C++, SFML.
-```
-#inlcude <iostream>
-```
+  * Designed and implmented a typical minesweeper game by using C++, SFML.
 
 ### Skills
 * C++: proficient
