@@ -17,15 +17,22 @@
 
 ### Education Experiences
 #### High School Diploma • June 2019 • Aquinas High School, CA
-GPA: 4.0/4.0(1%)
+* GPA: 4.0/4.0(1%)
 
 #### Bachelor of Science • August 2019 - May 2023 • University of Florida(UF)
-GPA: 3.78/4.0(10%)<br>
-Main course: C++(A), data stucture(A), calculus-3(A), python for biology(A), fundamental of java(A-), macroeconomics(A)
-<br>
-Awards：dean’s list fall 2019 – fall 2020
+* GPA: 3.77/4.0(10%)
+* Main course: Intro to C++(A), Calculus 3(A), Python for Biology(A), Fundamental of java(A-), Macroeconomics(A)
+* Programming Courses: Data Structure(A), Algorithms(A), Operating System(A), Software Engineering(A-), User Interface Design(A)
+* Awards：dean’s list Fall 2019 – Spring 2021
+
 ### Project Experiences
-* <strong>Database software</strong>: Our group's goal is to create a website that can access to oracle database and query the search from the website. And website will be able to show the graphs comparing the query results. I am responsible for website creation part. I used PHP to create the website and make an access to the oracle database. Besides, I made the website print out the result, and the corresponding graph.
+* **Solar Panel Website**
+  * Developed a website through using Python, Flask, Bootstrap framework, and HTML, CSS, JS that allows users to quickly find the best site to install the solar panel
+  * Integrated Google Map on the website by using Google Map API for users to explicitly find the desired location
+  * Built a persistent database by utilizing MongoDB to store, retrieve and modify the user’s account and bookmark information
+  * Incorporated a weather map and making graphs by using the weather app’s API and Chart.js
+
+* **Database software**: Our group's goal is to create a website that can access to oracle database and query the search from the website. And website will be able to show the graphs comparing the query results. I am responsible for website creation part. I used PHP to create the website and make an access to the oracle database. Besides, I made the website print out the result, and the corresponding graph.
 * <strong>Circuit simulation software</strong>: I am responsible for creating this software using C++. This app is able to simulate the current and circuit. When the switch is clicked and switch is open, then the corresponding circuit should be green, otherwise, it should display red.
 * <strong>Wechat Mini Program</strong>: This is an ongoing project. Our group aims to build a question box application so that the users can submit their own questions sharing with their friends and answer questions that other people asked. I am mainly responsible for the front end part of the application, inclduing setting user interface, building interactions between users and application. This project is highly based on the knowledge of HTML, CSS, JavaScript, and some back-end framework. 
 * **Minesweeper**
