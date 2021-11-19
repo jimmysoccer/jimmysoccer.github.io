@@ -20,10 +20,13 @@
 * GPA: 4.0/4.0(1%)
 
 #### Bachelor of Science • August 2019 - May 2023 • University of Florida(UF)
-* GPA: 3.77/4.0(10%)
+* Major: Computer Science (GPA: 3.77)
+* Minor: Mathematics
 * Main course: Intro to C++(A), Calculus 3(A), Python for Biology(A), Fundamental of java(A-), Macroeconomics(A)
 * Programming Courses: Data Structure(A), Algorithms(A), Operating System(A), Software Engineering(A-), User Interface Design(A)
 * Awards：dean’s list Fall 2019 – Spring 2021
+
+
 ---
 ### Project Experiences
 * **Solar Panel Website**
