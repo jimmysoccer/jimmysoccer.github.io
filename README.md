@@ -9,12 +9,11 @@
 
 ### Job Experiences
 
-#### Summer Internship • Continental Tires (China) Co., Ltd. Shanghai Branch • May 2021 to August 2021
-* using SQL language to manage company's Microsoft SQL database storing customers' and stores' detailed information inclduing basic, business and economic information,
-the total tuples are more than 1 million. 
-* using Excel and visual basic to analyze data collected from database.
-* transfer analyzed data and report to the company's own database system. 
-
+#### Business System Intern • Continental Tires (China) Co., Ltd. Shanghai Branch • May 2021 to July 2021
+* Modified and updated necessary user interface of the internal-use-only software by using HTML, CSS, and JavaScript.
+* Utilized SQL to manage company's Microsoft SQL database that is related to customers' detailed information, which includes creating, modifying, and deleting information. 
+*	Improved speed and readability for employees to find a particular record through redesigning the existed SQL script.
+* Designed an algorithm to transfer the CSV data collected from retailers to the correct format required by company’s database through using C++.
 
 ### Education Experiences
 #### High School Diploma • June 2019 • Aquinas High School, CA
