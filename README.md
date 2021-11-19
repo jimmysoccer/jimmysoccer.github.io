@@ -6,7 +6,7 @@
 * Gender: Male  
 * Birthdate: 09/27/2000
 * Know more about me: welcome to my personal website. (to be continued)
-
+---
 ### Job Experiences
 
 #### Business System Intern • Continental Tires (China) Co., Ltd. Shanghai Branch • May 2021 to July 2021
@@ -14,7 +14,7 @@
 * Utilized SQL to manage company's Microsoft SQL database that is related to customers' detailed information, which includes creating, modifying, and deleting information. 
 *	Improved speed and readability for employees to find a particular record through redesigning the existed SQL script.
 * Designed an algorithm to transfer the CSV data collected from retailers to the correct format required by company’s database through using C++.
-
+---
 ### Education Experiences
 #### High School Diploma • June 2019 • Aquinas High School, CA
 * GPA: 4.0/4.0(1%)
@@ -24,7 +24,7 @@
 * Main course: Intro to C++(A), Calculus 3(A), Python for Biology(A), Fundamental of java(A-), Macroeconomics(A)
 * Programming Courses: Data Structure(A), Algorithms(A), Operating System(A), Software Engineering(A-), User Interface Design(A)
 * Awards：dean’s list Fall 2019 – Spring 2021
-
+---
 ### Project Experiences
 * **Solar Panel Website**
   * Developed a website through using Python, Flask, Bootstrap framework, and HTML, CSS, JS that allows users to quickly find the best site to install the solar panel
@@ -37,7 +37,7 @@
 * <strong>Wechat Mini Program</strong>: This is an ongoing project. Our group aims to build a question box application so that the users can submit their own questions sharing with their friends and answer questions that other people asked. I am mainly responsible for the front end part of the application, inclduing setting user interface, building interactions between users and application. This project is highly based on the knowledge of HTML, CSS, JavaScript, and some back-end framework. 
 * **Minesweeper**
   * Designed and implmented a typical minesweeper game by using C++, SFML.
-
+---
 ### Skills
 * C++: proficient
 * SQL: proficient
