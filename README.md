@@ -32,15 +32,23 @@
 
 ---
 ### Project Experiences
-* **Solar Panel Website**
+* **Solar Panel Website** | October 2021 - November 2021
   * Developed a website through using Python, Flask, Bootstrap framework, and HTML, CSS, JS that allows users to quickly find the best site to install the solar panel
   * Integrated Google Map on the website by using Google Map API for users to explicitly find the desired location
   * Built a persistent database by utilizing MongoDB to store, retrieve and modify the user’s account and bookmark information
   * Incorporated a weather map and making graphs by using the weather app’s API and Chart.js
 
-* **Database software**: Our group's goal is to create a website that can access to oracle database and query the search from the website. And website will be able to show the graphs comparing the query results. I am responsible for website creation part. I used PHP to create the website and make an access to the oracle database. Besides, I made the website print out the result, and the corresponding graph.
-* <strong>Circuit simulation software</strong>: I am responsible for creating this software using C++. This app is able to simulate the current and circuit. When the switch is clicked and switch is open, then the corresponding circuit should be green, otherwise, it should display red.
-* <strong>Wechat Mini Program</strong>: This is an ongoing project. Our group aims to build a question box application so that the users can submit their own questions sharing with their friends and answer questions that other people asked. I am mainly responsible for the front end part of the application, inclduing setting user interface, building interactions between users and application. This project is highly based on the knowledge of HTML, CSS, JavaScript, and some back-end framework. 
+* **Question Box** | July 2021 - August 2021
+  * Developed a question box application that allows the users to answer and post questions by utilizing HTML, CSS, JS, Apache server
+  * Embedded a 3D sphere by using Three.js to display the questions for users to rotate the sphere and find the questions
+  * Established a connection to Oracle SQL database for users to send and retrieve posts information through PHP, SQL
+
+
+* **Database software**: 
+  * Utilized PHP to create a connection between the website and Oracle database.
+  * Our group's goal is to create a website that can access to oracle database and query the search from the website. And website will be able to show the graphs comparing the query results. I am responsible for website creation part. I used PHP to create the website and make an access to the oracle database. Besides, I made the website print out the result, and the corresponding graph.
+* **Circuit simulation software**: I am responsible for creating this software using C++. This app is able to simulate the current and circuit. When the switch is clicked and switch is open, then the corresponding circuit should be green, otherwise, it should display red.
+* **Wechat Mini Program**: This is an ongoing project. Our group aims to build a question box application so that the users can submit their own questions sharing with their friends and answer questions that other people asked. I am mainly responsible for the front end part of the application, inclduing setting user interface, building interactions between users and application. This project is highly based on the knowledge of HTML, CSS, JavaScript, and some back-end framework. 
 * **Minesweeper**
   * Designed and implmented a typical minesweeper game by using C++, SFML.
 
