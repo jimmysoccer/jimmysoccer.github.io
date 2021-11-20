@@ -66,4 +66,3 @@
 * JavaScript: proficient
 * Java: familiar 
 * PHP: familiar
-* TOEFL: 98
