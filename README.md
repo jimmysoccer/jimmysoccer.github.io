@@ -15,7 +15,13 @@
 * Modified and updated necessary user interface of the internal-use-only software by using HTML, CSS, and JavaScript.
 * Utilized SQL to manage company's Microsoft SQL database that is related to customers' detailed information, which includes creating, modifying, and deleting information. 
 *	Improved speed and readability for employees to find a particular record through redesigning the existed SQL script.
-* Designed an algorithm to transfer the CSV data collected from retailers to the correct format required by company’s database through using C++.
+* Created an algorithm to transfer the CSV data collected from retailers to the correct format required by company’s database through using C++.
+
+#### Website Developer • Department of Biomedical Engineering, University of Florida • August 2022 to Present
+* Designed a data visualization website UI by using Figma.
+* Implemented the website and utilized interface to interact with the backend database by using JavaScript, React framework and CSS.
+* Developed a website showing patient's data and plots through utilizing and React framework and Chart.js. 
+* Built a launch website for physicians to choose which patient's data will be displayed.
 
 
 ---
