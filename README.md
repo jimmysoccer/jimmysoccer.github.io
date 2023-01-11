@@ -38,6 +38,11 @@
 
 ---
 ### Project Experiences
+* **Web Application** **January 2022 - Present**
+  * Worked with 10 members of the creative team to develop a life and daily service online platform that allows the users to post recent activities, organize a small   group of party and respond to other’s invitations. The application is currently released. 
+  * Mainly responsible for the front-end development by using React framework, Redux, and JavaScript. 
+  * Embedded an instant chatting API in the application that enables users to exchange recent activities’ information.
+  * Helped to build and manage the backend that controls the application’s database and interfaces by using C++.
 * **Solar Panel Website**  **October 2021 - November 2021**
   * Developed a website through using Python, Flask, Bootstrap framework, and HTML, CSS, JS that allows users to quickly find the best site to install the solar panel
   * Integrated Google Map on the website by using Google Map API for users to explicitly find the desired location
